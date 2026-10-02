@@ -1,5 +1,3 @@
-# Online-Retail-II-Data-Analysis-Project-
-
 # Online Retail II: E-Commerce Sales & Customer Analysis
 
 ## Project Overview
